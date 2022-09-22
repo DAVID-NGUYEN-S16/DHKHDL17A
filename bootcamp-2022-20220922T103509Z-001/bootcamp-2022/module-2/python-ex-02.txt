@@ -1,0 +1,27 @@
+CƠ BẢN
+
+==================================================================================================================
+## Chuỗi
+
+**Bài 7** Viết chương trình nhập vào một chuỗi. Cho biết trong chuỗi đó có bao nhiêu ký tự alphabet, bao nhiêu chữ số và bao nhiêu ký tự đặc biệt
+
+**Bài 8** Viết chương trình nhập vào họ đệm và tên của người dùng. Thực hiện các yêu cầu sau:
+
+	1. Tạo một biến có tên `hoten` có giá trị bằng cách nối hai chuỗi họ đệm và tên. Hiển thị chuỗi `hoten` ra màn hình.
+	2. Chuẩn hóa chuỗi họ tên (xóa các ký tự đặc biệt và các ký tự là chữ số, xóa các khoảng trắng dư thừa, và viết hoa ký tự đầu)
+	3. Tìm xem trong chuỗi họ tên có từ "Anh" hay không?
+	4. In ra các ký tự alphabet xuất hiện trong tên và số lượng của các ký tự đó.
+
+==================================================================================================================
+## Tập tin
+
+**Bài 9** Dữ liệu kết quả học tập của sinh viên được chứa trong file `ketquahoctap.csv`. Hãy viết chương trình thực hiện những công việc sau:
+
+	1. Đọc file dữ liệu và tính điểm trung bình (DTB) của mỗi sinh viên theo công thức sau:
+		LT = (2*TK + 3*GK + 5*CK)/10
+		DTB = (2*LT + TH) / 3
+	2. Một số sinh viên trong danh sách có chuỗi họ đệm và tên chưa được chuẩn hóa. Hãy chuẩn hóa họ tên  mỗi sinh viên. Hiển thị danh sách sinh viên sau khi chuẩn hóa (có bao gồm DTB)
+	3. Hiển thị danh sách sinh viên học lại (DTB < 4)
+
+
+==================================================================================================================

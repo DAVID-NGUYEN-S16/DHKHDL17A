@@ -1,0 +1,28 @@
+1/ Cách giải quyết một bài toán trên máy tính.
+	- Số hóa thông tin --> số liệu
+	- cách giải quyết: 
+		input --> algorithm --> output
+
+2/ Kiểu dữ liệu (Data Type)
+	- số nguyên
+	- số thực
+	- ký tự
+	- kiểu mảng
+
+3/ Các phép toán trên kiểu dữ liệu (cộng, trừ, nhân, chia nguyên, chia lấy phần dư)
+
+4/ Cấu trúc lựa chọn (if, if-else, switch)
+
+5/ Cấu trúc lặp (for, while, do..while)
+
+6/ Hàm (giá trị trả về, tham số)
+
+7/ Các thao tác cơ bản trên mảng (nhập, xuất, thêm, xóa, cập nhật, sắp xếp)
+
+8/ Chuỗi
+
+9/ Kiểu dữ liệu do người dùng tự định nghĩa (struct)
+
+10/ File (văn bản/text, nhị phân/binary)
+
+11/ Lập trình hướng đối tượng (OOP)
